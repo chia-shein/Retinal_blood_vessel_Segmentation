@@ -7,6 +7,8 @@ https://www.kaggle.com/competitions/sai-vessel-segmentation/overview
 sudo apt-get update
 sudo apt-get install ffmpeg libsm6 libxext6  -y
 pip install imgaug
+pip install -U scikit-learn scipy matplotlib
+pip install pandas
 ```
 ## Datasets: 
 In order to prevent the database from being deleted, I first backed it up to my personal cloud space.
