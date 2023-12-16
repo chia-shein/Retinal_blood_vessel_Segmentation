@@ -29,6 +29,7 @@ python showimg.py
 ### inference.ipynb
 * This code directly uses Google Colab for inference images.
 * Inference with different confidence thresholds:
+
 ![](./readme_img/test.png)
 ![](./readme_img/Thresh.png)
 
