@@ -12,8 +12,12 @@ pip install pandas
 ```
 ## Codes:
 ### showimg.py
-### train.py
-* This code can be train on Google Colab
+### train.ipynb
+* This code can be trained on Google Colab.
+* With the early stop callback mechanism.
+* validation training diagrams.
+![](./read_img/train_digram.png)
+
 ## Datasets: 
 In order to prevent the database from being deleted, I first backed it up to my personal cloud space.
 [Download Link](https://drive.google.com/drive/folders/1l_hZbxdLA_FtGKKI6yjV0fMYg1NkY-LX?usp=sharing)
