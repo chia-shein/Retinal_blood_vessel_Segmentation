@@ -16,7 +16,7 @@ pip install pandas
 * This code can be trained on Google Colab.
 * With the early stop callback mechanism.
 * validation training diagrams.
-![](./read_img/train_digram.png)
+![](./readme_img/train_digram.png)
 
 ## Datasets: 
 In order to prevent the database from being deleted, I first backed it up to my personal cloud space.
