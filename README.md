@@ -1,7 +1,7 @@
 # Retinal_blood_vessel_Segmentation
 https://www.kaggle.com/competitions/sai-vessel-segmentation/overview
 
-![](./readme_img/dataset_img.png)
+![](./readme_img/dataset_image.png)
 ## Dependencies
 ```shell
 sudo apt-get update
