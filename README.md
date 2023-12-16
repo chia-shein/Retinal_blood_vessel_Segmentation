@@ -12,11 +12,19 @@ pip install pandas
 ```
 ## Codes:
 ### showimg.py
+```shell
+python showimg.py
+```
 ### train.ipynb
 * This code can be trained on Google Colab.
+* Augmentation lets the model more robust.
 * With the early stop callback mechanism.
 * validation training diagrams.
 ![](./readme_img/train_digram.png)
+
+* My trained Weight: [Download link](https://drive.google.com/file/d/1WRKbSI7dXbbpayZgip-8egPuQKgEP0kh/view?usp=sharing)
+
+### inference.py
 
 ## Datasets: 
 In order to prevent the database from being deleted, I first backed it up to my personal cloud space.
