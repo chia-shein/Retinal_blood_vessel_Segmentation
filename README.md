@@ -34,7 +34,7 @@ python showimg.py
 ![](./readme_img/Thresh.png)
 
 ## Competition Result:
-
+![](./readme_img/result.png)
 
 ## Datasets: 
 In order to prevent the database from being deleted, I first backed it up to my personal cloud space.
