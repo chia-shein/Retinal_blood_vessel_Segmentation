@@ -3,6 +3,8 @@ https://www.kaggle.com/competitions/sai-vessel-segmentation/overview
 
 ![](./readme_img/dataset_image.png)
 ## Dependencies
+* tensorflow-21.02-tf1-py3:latest
+
 ```shell
 sudo apt-get update
 sudo apt-get install ffmpeg libsm6 libxext6  -y
@@ -24,7 +26,11 @@ python showimg.py
 
 * My trained Weight: [Download link](https://drive.google.com/file/d/1WRKbSI7dXbbpayZgip-8egPuQKgEP0kh/view?usp=sharing)
 
-### inference.py
+### inference.ipynb
+* This code directly uses Google Colab for inference images.
+
+## Competition Result:
+
 
 ## Datasets: 
 In order to prevent the database from being deleted, I first backed it up to my personal cloud space.
