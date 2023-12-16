@@ -47,5 +47,6 @@ python showimg.py
 ![](./readme_img/Thresh.png)
 
 ## Competition Result:
+Finished sixth in the competition with a dice value of 0.78, out of a first-place score of 0.80.
 ![](./readme_img/result.png)
 
